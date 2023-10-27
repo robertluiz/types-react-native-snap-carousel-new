@@ -4,6 +4,37 @@
     "projects": [
         "https://github.com/robertluiz/react-native-snap-carousel-new"
     ],
+    "repository": {
+        "type": "git",
+        "url": "github.com/robertluiz/types-react-native-snap-carousel-new"
+    },
+    "keywords": [
+        "react",
+        "native",
+        "carousel",
+        "slider",
+        "swiper",
+        "flatlist",
+        "scrollview",
+        "parallax",
+        "images",
+        "infinite",
+        "scroll",
+        "scrolling",
+        "items",
+        "edge",
+        "snap",
+        "card",
+        "cards",
+        "stack",
+        "deck",
+        "tinder",
+        "android",
+        "ios",
+        "snapping",
+        "component",
+        "rtl"
+    ],
     "dependencies": {
         "@types/react": "*",
         "@types/react-native": "*"
@@ -11,30 +42,12 @@
     "devDependencies": {
         "@types/react-native-snap-carousel": "workspace:."
     },
-    "owners": [
-        {
-            "name": "jnbt",
-            "githubUsername": "jnbt"
-        },
-        {
-            "name": "Jacob Froman",
-            "githubUsername": "j-fro"
-        },
-        {
-            "name": "Nikolay Polukhin",
-            "githubUsername": "gazaret"
-        },
-        {
-            "name": "Guillaume Amat",
-            "githubUsername": "GuillaumeAmat"
-        },
-        {
-            "name": "Vitor Luiz Cavalcanti",
-            "githubUsername": "VitorLuizC"
-        },
-        {
-            "name": "Lemon Garrett",
-            "githubUsername": "egarrett94"
-        }
-    ]
+    "author": "Meliorence <contact@meliorence.com> (github.com/meliorence)",
+    "license": "BSD-3-Clause",
+    "homepage": "https://github.com/robertluiz/types-react-native-snap-carousel-new",
+    "bugs": {
+        "url": "https://github.com/robertluiz/types-react-native-snap-carousel-new/issues"
+    },
+    "readmeFilename": "README.md"
+
 }
