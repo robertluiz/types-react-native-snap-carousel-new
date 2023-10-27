@@ -1,0 +1,40 @@
+{
+    "name": "@types/react-native-snap-carousel-new",
+    "version": "3.9.1",
+    "projects": [
+        "https://github.com/robertluiz/react-native-snap-carousel-new"
+    ],
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "*"
+    },
+    "devDependencies": {
+        "@types/react-native-snap-carousel": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "jnbt",
+            "githubUsername": "jnbt"
+        },
+        {
+            "name": "Jacob Froman",
+            "githubUsername": "j-fro"
+        },
+        {
+            "name": "Nikolay Polukhin",
+            "githubUsername": "gazaret"
+        },
+        {
+            "name": "Guillaume Amat",
+            "githubUsername": "GuillaumeAmat"
+        },
+        {
+            "name": "Vitor Luiz Cavalcanti",
+            "githubUsername": "VitorLuizC"
+        },
+        {
+            "name": "Lemon Garrett",
+            "githubUsername": "egarrett94"
+        }
+    ]
+}
