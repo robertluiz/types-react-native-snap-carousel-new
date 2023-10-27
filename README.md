@@ -1,0 +1,1 @@
+# types-react-native-snap-carousel-new
